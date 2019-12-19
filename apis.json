@@ -1,0 +1,52 @@
+{
+    "name": "AnyClipMedia",
+    "description": "AnyClip is a leading technological platform for video monetization and personalization.    AnyClip has curated a rich video content library made up of a million clips from the world\u2019s leading premium content owners, film studios, and sports teams. Thro...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/341-anyclipmedia.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "videos"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/anyclipmedia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AnyClipMedia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/341-anyclipmedia.jpg",
+            "humanURL": "http:\/\/wiki.anyclip.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.anyclip.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.anyclip.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/anyclip"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/anyclip"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/anyclip"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/wiki.anyclip.com\/"
+        }
+    ]
+}
